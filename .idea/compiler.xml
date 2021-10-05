@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile default="true" name="Default" enabled="true" />
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="mineRPC-server" />
+        <module name="mineRPC-example" />
+        <module name="mineRPC-commons" />
+        <module name="mineRPC-proto" />
+        <module name="minRPC-codec" />
+        <module name="mineRPC-client" />
+        <module name="mineRPC-transport" />
+      </profile>
+    </annotationProcessing>
+  </component>
+</project>
